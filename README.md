@@ -1,5 +1,5 @@
 #### 12306 购票小助手
-(hujinbo test)
+(hujinbo test++)
 - python版本支持
   - 2.7.10 - 2.7.15
 - 依赖库
